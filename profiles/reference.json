@@ -1,0 +1,8 @@
+{
+  "target_codec": "libx265",
+  "width": 1440,
+  "height": 3168,
+  "fps": 60,
+  "crf": 20,
+  "target_asset_path": "BASE/assets/unlocked.mp4"
+}

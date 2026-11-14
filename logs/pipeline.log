@@ -1,0 +1,101 @@
+2026-11-11 15:28:59,172 [INFO] Starting: Transcoding custom video via FFmpeg -> C:\ffmpeg -y -i C:\Users\Cerio Media\Desktop\SW\New folder\\U0001f979 [628533691780356326].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=decrease,pad=1440:3168:(ow-iw)/2:(oh-ih)/2 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-11 15:32:23,283 [INFO] Starting: Transcoding custom video via FFmpeg -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\\U0001f979 [628533691780356326].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=decrease,pad=1440:3168:(ow-iw)/2:(oh-ih)/2 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-11 15:36:41,029 [INFO] Success: Transcoding custom video via FFmpeg
+2026-11-11 15:36:41,090 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk
+2026-11-11 15:38:41,690 [INFO] Success: Rebuilding APK with Apktool
+2026-11-11 15:38:41,696 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\signed
+2026-11-11 15:38:55,961 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-11 16:20:58,548 [INFO] Starting: Transcoding video with FFmpeg (Zero Black Bars) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\Pinterest video #938789484861081291 [938789484861081291].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-11 16:24:18,831 [INFO] Success: Transcoding video with FFmpeg (Zero Black Bars)
+2026-11-11 16:24:19,352 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-11 16:28:54,344 [INFO] Success: Rebuilding APK with Apktool
+2026-11-11 16:28:54,345 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-11 16:29:05,888 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-11 16:38:19,915 [INFO] Starting: Transcoding video with FFmpeg (Zero Black Bars) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\GLINT [1134133118672411258].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-11 16:47:20,187 [INFO] Success: Transcoding video with FFmpeg (Zero Black Bars)
+2026-11-11 16:47:20,249 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-11 16:50:29,929 [INFO] Success: Rebuilding APK with Apktool
+2026-11-11 16:50:29,929 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-11 16:50:40,705 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-11 17:51:24,411 [INFO] Starting: Transcoding video with FFmpeg (Zero Black Bars HEVC) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\Pinterest video #585749495330183109 [585749495330183109].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-11 17:53:26,768 [INFO] Success: Transcoding video with FFmpeg (Zero Black Bars HEVC)
+2026-11-11 17:53:26,928 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-11 17:58:02,777 [INFO] Success: Rebuilding APK with Apktool
+2026-11-11 17:58:02,780 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-11 17:58:19,190 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-12 00:50:52,711 [INFO] Starting: Transcoding video with FFmpeg (Zero Black Bars HEVC) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\675793855_1794401796494388.mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\BASE\assets\unlocked.mp4
+2026-11-12 00:53:02,184 [INFO] Success: Transcoding video with FFmpeg (Zero Black Bars HEVC)
+2026-11-12 00:53:02,783 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 00:53:55,203 [INFO] Success: Rebuilding APK with Apktool
+2026-11-12 00:53:55,285 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 00:54:04,509 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-12 01:35:43,721 [INFO] Starting: Transcoding video with FFmpeg (HEVC Zero Black Bars) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\Pinterest video #938789484861081291 [938789484861081291].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 01:41:10,773 [INFO] Success: Transcoding video with FFmpeg (HEVC Zero Black Bars)
+2026-11-12 01:41:11,933 [INFO] Starting: Rebuilding APK with Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk
+2026-11-12 01:43:24,982 [INFO] Success: Rebuilding APK with Apktool
+2026-11-12 01:43:24,982 [INFO] Starting: Signing APK with uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 01:43:41,234 [INFO] Success: Signing APK with uber-apk-signer
+2026-11-12 01:57:41,406 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\\U0001f979 [628533691780356326].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 02:04:06,280 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge)
+2026-11-12 02:04:06,506 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk
+2026-11-12 02:06:20,254 [INFO] Success: Compiling APK architecture via Apktool
+2026-11-12 02:06:20,254 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 02:06:38,889 [INFO] Success: Applying cryptographic signature via uber-apk-signer
+2026-11-12 02:50:34,446 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\675793855_1794401796494388.mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 02:52:44,691 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge)
+2026-11-12 02:52:44,909 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 02:55:27,450 [INFO] Success: Compiling APK architecture via Apktool
+2026-11-12 02:55:27,450 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar "C:\SW\apksigner.jar" --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 02:55:27,575 [ERROR] Error in Applying cryptographic signature via uber-apk-signer: '"java -jar \"C:\SW\apksigner.jar\""' is not recognized as an internal or external command,
+operable program or batch file.
+
+2026-11-12 02:57:50,664 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\675793855_1794401796494388.mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 02:59:30,327 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge)
+2026-11-12 02:59:30,358 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 03:01:26,175 [INFO] Success: Compiling APK architecture via Apktool
+2026-11-12 03:01:26,175 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar "C:\SW\apksigner.jar" --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 03:01:26,269 [ERROR] Error in Applying cryptographic signature via uber-apk-signer: '"java -jar \"C:\SW\apksigner.jar\""' is not recognized as an internal or external command,
+operable program or batch file.
+
+2026-11-12 03:05:58,276 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\675793855_1794401796494388.mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 03:07:24,268 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge)
+2026-11-12 03:07:24,299 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 03:18:55,222 [INFO] Success: Compiling APK architecture via Apktool
+2026-11-12 03:18:55,237 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 03:19:03,233 [INFO] Success: Applying cryptographic signature via uber-apk-signer
+2026-11-12 03:34:47,667 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\Itachi \uff5c Ghost of the Uchiha Live Wallpaper [617837642705142393].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 03:41:46,922 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge)
+2026-11-12 03:41:47,080 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 03:44:00,463 [INFO] Success: Compiling APK architecture via Apktool
+2026-11-12 03:44:00,469 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 03:44:09,413 [INFO] Success: Applying cryptographic signature via uber-apk-signer
+2026-11-12 03:52:20,244 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -i C:\Users\Cerio Media\Desktop\SW\New folder\sukuna x dance [879961214719353415].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 03:58:24,382 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) (364.1s)
+2026-11-12 03:58:24,439 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk
+2026-11-12 04:01:18,705 [INFO] Success: Compiling APK architecture via Apktool (174.3s)
+2026-11-12 04:01:18,705 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\unsigned_rebuilt.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 04:01:26,272 [INFO] Success: Applying cryptographic signature via uber-apk-signer (7.6s)
+2026-11-12 04:17:33,122 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -progress pipe:1 -nostats -i C:\Users\Cerio Media\Desktop\SW\New folder\BMW in Motion\uff1a Epic 4K Live Wallpapers That Feel Real \U0001f3a5\u26a1 [1141803311787161812].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 04:18:16,017 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) (42.9s)
+2026-11-12 04:18:16,026 [INFO] Starting: Capturing final frame -> assets/backup.jpg -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -sseof -1 -i C:\Users\Cerio Media\Desktop\SW\New folder\BMW in Motion\uff1a Epic 4K Live Wallpapers That Feel Real \U0001f3a5\u26a1 [1141803311787161812].mp4 -an -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -pix_fmt yuvj420p -q:v 2 -update 1 H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\backup.jpg
+2026-11-12 04:18:19,134 [INFO] Success: Capturing final frame -> assets/backup.jpg (3.1s)
+2026-11-12 04:18:19,180 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\Aston__20261112_041731_unsigned.apk
+2026-11-12 04:18:39,546 [INFO] Success: Compiling APK architecture via Apktool (20.4s)
+2026-11-12 04:18:39,549 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\Aston__20261112_041731_unsigned.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 04:18:46,173 [INFO] Success: Applying cryptographic signature via uber-apk-signer (6.6s)
+2026-11-12 04:20:11,086 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -progress pipe:1 -nostats -i C:\Users\Cerio Media\Desktop\SW\New folder\Audi RS6 \U0001f327\ufe0f [871728071610337682].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 04:22:56,452 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) (165.3s)
+2026-11-12 04:22:56,459 [INFO] Starting: Capturing final frame -> assets/backup.jpg -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -sseof -1 -i C:\Users\Cerio Media\Desktop\SW\New folder\Audi RS6 \U0001f327\ufe0f [871728071610337682].mp4 -an -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -pix_fmt yuvj420p -q:v 2 -update 1 H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\backup.jpg
+2026-11-12 04:22:58,434 [INFO] Success: Capturing final frame -> assets/backup.jpg (2.0s)
+2026-11-12 04:22:58,572 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\Audi_20261112_042010_unsigned.apk
+2026-11-12 04:23:10,285 [INFO] Success: Compiling APK architecture via Apktool (11.7s)
+2026-11-12 04:23:10,291 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\Audi_20261112_042010_unsigned.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 04:23:17,346 [INFO] Success: Applying cryptographic signature via uber-apk-signer (7.1s)
+2026-11-12 04:24:27,899 [INFO] Starting: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -progress pipe:1 -nostats -i C:\Users\Cerio Media\Desktop\SW\New folder\Classic BMW E39 Angel Eyes In The Dark [662662532715962060].mp4 -c:v libx265 -crf 20 -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -r 60 -an H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\unlocked.mp4
+2026-11-12 04:27:08,193 [INFO] Success: Transcoding video stream with FFmpeg (HEVC Edge-to-Edge) (160.3s)
+2026-11-12 04:27:08,195 [INFO] Starting: Capturing final frame -> assets/backup.jpg -> C:\ffmpeg\bin\ffmpeg.exe -y -nostdin -hide_banner -loglevel error -sseof -1 -i C:\Users\Cerio Media\Desktop\SW\New folder\Classic BMW E39 Angel Eyes In The Dark [662662532715962060].mp4 -an -vf scale=1440:3168:force_original_aspect_ratio=increase,crop=1440:3168 -pix_fmt yuvj420p -q:v 2 -update 1 H:\MAL\SUPERPROTOCOL\Super Protocol\BASE\assets\backup.jpg
+2026-11-12 04:27:09,465 [INFO] Success: Capturing final frame -> assets/backup.jpg (1.3s)
+2026-11-12 04:27:09,486 [INFO] Starting: Compiling APK architecture via Apktool -> C:\apktool\apktool.bat b H:\MAL\SUPERPROTOCOL\Super Protocol\BASE -o H:\MAL\SUPERPROTOCOL\Super Protocol\output\BMW_20261112_042426_unsigned.apk
+2026-11-12 04:27:20,015 [INFO] Success: Compiling APK architecture via Apktool (10.5s)
+2026-11-12 04:27:20,022 [INFO] Starting: Applying cryptographic signature via uber-apk-signer -> java -jar C:\SW\apksigner.jar --apks H:\MAL\SUPERPROTOCOL\Super Protocol\output\BMW_20261112_042426_unsigned.apk --out H:\MAL\SUPERPROTOCOL\Super Protocol\output\signed
+2026-11-12 04:27:29,154 [INFO] Success: Applying cryptographic signature via uber-apk-signer (9.1s)
